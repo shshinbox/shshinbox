@@ -1,6 +1,6 @@
 ## 🚀 Featured Projects
 
-### 🏠 [Stateful Agentic System: Real Estate Consultation v2](https://github.com/shshinbox/RealtyAgent)
+### 🏠 [Stateful Agentic System: Real Estate Consultation v2.0](https://github.com/shshinbox/RealtyAgent)
 ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus: Agentic Workflow](https://img.shields.io/badge/Focus-Agentic_Workflow-brightgreen?style=flat-square)
 > **"LangGraph 기반의 노드 간 상태 공유와 자가 수정 루프를 통해 상담의 정합성을 갖춘 시스템"**
 - **Core Concept**: 단방향 응답의 한계를 극복하기 위해 단계별 검증과 자가 수정(Self-Correction) 루프를 설계하고, HITL(Human-in-the-loop)를 결합
@@ -11,7 +11,7 @@
 
 ---
 
-### 🏠 [Linear Architecture Leveraging OpenAI API and MCP: Real Estate Consultation v1](https://github.com/shshinbox/real-estate-agent)
+### 🏠 [Linear Architecture Leveraging OpenAI API and MCP: Real Estate Consultation v1.0](https://github.com/shshinbox/real-estate-agent)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Team](https://img.shields.io/badge/Project-Team-blueviolet?style=flat-square)
 > **"OpenAI API와 MCP를 활용하여 모델의 자율적 계획과 도구 순차 호출을 구현한 계획 기반 시스템"**
 - **Core Concept**: 별도의 프레임워크 없이 OpenAI API 수준에서 MCP(Model Context Protocol) 도구 설명을 제공하여 모델이 스스로 실행 계획을 수립하고 순차 호출하도록 설계
