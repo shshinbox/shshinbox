@@ -16,7 +16,7 @@
 > **"OpenAI API와 MCP를 활용하여 모델의 자율적 계획과 도구 순차 호출을 구현한 계획 기반 시스템"**
 - **Core Concept**: 별도의 프레임워크 없이 OpenAI API 수준에서 MCP(Model Context Protocol) 도구 설명을 제공하여 모델이 스스로 실행 계획을 수립하고 순차 호출하도록 설계
 - **Tech Keywords**: `Python`, `OpenAI API`, `MCP`, `FAISS`, `RAG`
-- **Material**: [📄 시스템 기획 및 상세 아키텍처 구현 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
+- **Material**: [📄 시스템 기획 및 상세 아키텍처 구현 바로가기 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
 
 ---
 
@@ -28,7 +28,7 @@
   - FP32 대비 메모리 사용량을 약 70% 절감하면서도 최대 0.9698(ROC-AUC)의 높은 탐지 성능 유지
   - 양자화 노이즈 영향으로 최적 탐지 지점이 후반부에서 중간 레이어로 이동하는 구조적 특성 확인
 - **Tech Keywords**: `Python`, `PyTorch`, `HuggingFace Transformers`, `LLM.int8()`, `Scikit-learn`
-<!-- - **Material**: [📄 논문 요약 및 실험 데이터 바로가기](링크) -->
+- **Material**: [📄 논문 요약 바로가기 (PDF)](https://github.com/shshinbox/master-research-ipi-pipeline/blob/master/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%9A%94%EC%95%BD_v1.0.pdf)
 
 ---
 
