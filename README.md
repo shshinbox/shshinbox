@@ -16,7 +16,7 @@
 > **"OpenAI API와 MCP를 활용하여 모델의 자율적 계획과 도구 순차 호출을 구현한 계획 기반 시스템"**
 - **Core Concept**: 별도의 프레임워크 없이 OpenAI API 수준에서 MCP(Model Context Protocol) 도구 설명을 제공하여 모델이 스스로 실행 계획을 수립하고 순차 호출하도록 설계
 - **Tech Keywords**: `Python`, `OpenAI API`, `MCP`, `FAISS`, `RAG`
-- **Material**: [📄 시스템 기획 및 상세 아키텍처 구현 바로가기 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
+- **Material**: [📄 시스템 기획 및 상세 아키텍처 바로가기 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
 
 ---
 
@@ -36,4 +36,4 @@
 ![Maintenance](https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **"순차적 대기열 처리를 통해 예약 시스템의 신뢰성을 확보한 분산 아키텍처"**
 - **Core Concept**: Kafka와 Redis 기반의 분산 아키텍처로 대규모 트래픽 부하를 분산하고, 도메인 중심의 데이터 모델링과 보안 체계를 설계하여 시스템의 확장성과 데이터 무결성을 확보
-- **Tech Keywords**: `Java`, `Spring Boot`, `JPA`, `Kafka`, `Redis`, `Security`, `MySQL`
+- **Tech Keywords**: `Java`, `Spring Boot`, `JPA`, `Kafka`, `Redis`, `Security`, `MariaDB`
