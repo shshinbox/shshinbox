@@ -3,10 +3,10 @@
 ### 🛡️ [Master's Thesis: LLM Security & Quantization](https://github.com/shshinbox/master-research-ipi-pipeline)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Type: Academic](https://img.shields.io/badge/Type-Academic-blue?style=flat-square) ![Domain: AI_Security](https://img.shields.io/badge/Domain-AI_Security-red?style=flat-square)
 > **"양자화된 LLM 환경에서의 간접 프롬프트 인젝션 탐지 강건성 분석"**
-- **Core Concept**: INT8 양자화 LLM 환경에서 활성화 기반 간접 프롬프트 인젝션 탐지의 강건성을 실증하고, 노이즈 누적으로 인한 최적 탐지 레이어의 이동(Layer Shift) 현상을 규명
-- **Key Findings**: 
-  - FP32 대비 메모리 사용량을 약 70% 절감하면서도 최대 0.9698(ROC-AUC)의 높은 탐지 성능 유지
+- **Core Concept**: INT8 양자화 LLM 환경에서 활성화 기반 간접 프롬프트 인젝션 탐지의 강건성을 실증하고, 노이즈 누적으로 인한 최적 탐지 레이어의 이동(Layer Shift) 현상 실증
+- **Key Findings**:
   - 양자화 노이즈 영향으로 최적 탐지 지점이 후반부에서 중간 레이어로 이동하는 구조적 특성 확인
+  - FP32 대비 메모리 사용량을 약 70% 절감하면서도 최대 0.9698(ROC-AUC)의 높은 탐지 성능 유지
 - **Tech Keywords**: `Python`, `PyTorch`, `HuggingFace Transformers`, `LLM.int8()`, `Scikit-learn`
 - **Material**: [📄 논문 요약 바로가기 (PDF)](https://github.com/shshinbox/master-research-ipi-pipeline/blob/master/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%9A%94%EC%95%BD_v1.0.pdf)
 
