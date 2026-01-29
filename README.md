@@ -8,9 +8,8 @@
 </summary>
 
 ### 📑 [Analysis on the Robustness of Indirect Prompt Injection Detection in Quantized Large Language Models](https://github.com/shshinbox/master-research-ipi-pipeline)
-> **양자화된 LLM 환경에서의 간접 프롬프트 인젝션 탐지 강건성 분석 (석사 학위 논문, 2025)**
-
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Type: Academic](https://img.shields.io/badge/Type-Academic-blue?style=flat-square) ![Domain: AI_Security](https://img.shields.io/badge/Domain-AI_Security-red?style=flat-square)
+> **양자화된 LLM 환경에서의 간접 프롬프트 인젝션 탐지 강건성 분석 (석사 학위 논문, 2025)**
 - **연구 요약**: INT8 양자화가 적용된 LLM 환경에서 활성화(Activation) 기반 보안 탐지 기법의 유효성을 실증하고, 노이즈로 인한 내부 레이어의 보안 특성 변화를 분석
 - **주요 성과**:
   - **Layer Shift 규명:** 양자화 노이즈 누적으로 인해 최적 탐지 지점이 후반부에서 중간 레이어로 이동하는 구조적 변화 확인
