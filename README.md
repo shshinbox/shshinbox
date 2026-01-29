@@ -58,24 +58,6 @@
 
 ---
 
-## 🏗️ Data Engineering
-
-<details open> 
-<summary>
-  <sub>(Concurrent Data Pipelines)</sub>
-</summary>
-
-### 📄 [Python Data Pipeline: arXiv Text Extractor](https://github.com/shshinbox/arxiv-text-extractor2)
-![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
-> **비동기 통신과 병렬 연산을 결합한 대용량 학술 데이터 수집 시스템**
-- **개요**: 비동기 네트워크 통신과 CPU 병렬 처리를 동시에 활용해, 대량의 논문 PDF를 끊김 없이 수집하고 텍스트를 추출하는 파이프라인
-- **AI 협업 설계**: 파이썬의 성능 제약(GIL)을 우회하여 네트워크 다운로드와 텍스트 추출 연산을 동시에 수행할 수 있는 하이브리드 병렬 구조 설계를 중점적으로 요청함
-- **기술 키워드**: `Python`, `AsyncIO`, `Multiprocessing`, `Aiohttp`, `PostgreSQL`, `MongoDB`, `SQLAlchemy`
-
-</details>
-
----
-
 ## ☕ Backend Engineering
 
 <details open> 
@@ -94,3 +76,20 @@
 
 </details>
 
+---
+
+## 🏗️ Data Engineering
+
+<details open> 
+<summary>
+  <sub>(Concurrent Data Pipelines)</sub>
+</summary>
+
+### 📄 [Python Data Pipeline: arXiv Text Extractor](https://github.com/shshinbox/arxiv-text-extractor2)
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
+> **비동기 통신과 병렬 연산을 결합한 대용량 학술 데이터 수집 시스템**
+- **개요**: 비동기 네트워크 통신과 CPU 병렬 처리를 동시에 활용해, 대량의 논문 PDF를 끊김 없이 수집하고 텍스트를 추출하는 파이프라인
+- **AI 협업 설계**: 파이썬의 성능 제약(GIL)을 우회하여 네트워크 다운로드와 텍스트 추출 연산을 동시에 수행할 수 있는 하이브리드 병렬 구조 설계를 중점적으로 요청함
+- **기술 키워드**: `Python`, `AsyncIO`, `Multiprocessing`, `Aiohttp`, `PostgreSQL`, `MongoDB`, `SQLAlchemy`
+
+</details>
