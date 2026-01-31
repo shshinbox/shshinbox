@@ -15,7 +15,7 @@
   - **Layer Shift:** 양자화 노이즈 누적으로 인해 최적 탐지 지점이 후반부에서 중간 레이어로 이동하는 구조적 변화 확인
   - **리소스 최적화:** FP32 대비 메모리가 절감된 환경에서 ROC-AUC 0.9698의 높은 탐지 성능 유지
 - **기술 키워드**: `Python`, `PyTorch`, `HuggingFace Transformers`, `BitsAndBytes`, `Scikit-learn`
-- **상세 자료**: [📄 논문 요약 바로가기 (PDF)](https://github.com/shshinbox/master-research-ipi-pipeline/blob/master/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%9A%94%EC%95%BD_v1.0.pdf)
+- **상세 자료**: [📄 논문 요약 바로가기 (PDF)](https://github.com/shshinbox/master-research-ipi-pipeline/blob/master/%EC%84%9D%EC%82%AC%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8_%EC%9A%94%EC%95%BD.pdf)
 
 </details>
 
