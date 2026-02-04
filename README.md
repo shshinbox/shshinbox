@@ -47,10 +47,10 @@
   
 ### 🏠 [Linear Architecture Leveraging OpenAI API and MCP: Real Estate Consultation v1.0](https://github.com/shshinbox/real-estate-agent)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Team](https://img.shields.io/badge/Project-Team-blueviolet?style=flat-square)
-> **MCP와 OpenAI API를 활용한 자율 계획 기반 에이전트**
-- **개요**: 별도 프레임워크 없이 MCP를 통해 모델 스스로 실행 계획을 수립하고 도구를 순차 호출하는 Stateless 시스템
+> **OpenAI API를 활용한 자율 계획 기반 에이전트**
+- **개요**: 별도 프레임워크 없이 OpenAI API를 사용해 실행 계획 수립 및 도구 호출을 수행하는 Stateless 시스템
 - **구현 특징:** FAISS 기반 RAG 엔진 구축 및 부동산 도메인 데이터 검색 최적화
-- **기술 키워드**: `Python`, `OpenAI API`, `MCP`, `FAISS`, `RAG`
+- **기술 키워드**: `Python`,`FAISS`, `RAG`, `OpenAI API`
 - **상세 자료**: [📄 시스템 기획 및 상세 아키텍처 바로가기 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
 
 </details>
