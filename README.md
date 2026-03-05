@@ -31,6 +31,10 @@
 ### 🏠 [RealtyAgent](https://github.com/shshinbox/RealtyAgent)
 ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus: Agentic Workflow](https://img.shields.io/badge/Focus-Agentic_Workflow-brightgreen?style=flat-square)
 > **부동산 상담 멀티 에이전트**
+- LangGraph 기반 상태 중심 구조로 AI Agent 설계
+- API 결과 실패 또는 응답값이 없을 경우 재시도 루프 로직 구현
+- 요청 분석/계획/실행 단계를 개별 노드로 구조화하여 단계별 책임 분리
+- 실행 통제를 위한 HITL(Human-in-the-Loop) 개입 구조 설계
 - **기술 키워드**: `Python`, `LangGraph`, `FastAPI`
 - [아키텍처 요약 바로가기 (PDF)](https://github.com/shshinbox/RealtyAgent/blob/main/RealtyAgent_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
