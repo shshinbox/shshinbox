@@ -40,14 +40,14 @@
 
 </details>
 
-<details>
+<details open>
 <summary>
   <sub>(Linear Stateless Tool-Calling Agent)</sub>
 </summary>
   
 ### 🏠 [Real Estate Agent](https://github.com/shshinbox/real-estate-agent)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Team](https://img.shields.io/badge/Project-Team-blueviolet?style=flat-square)
-> **LLM API 활용 에이전트**
+> **LLM API 활용 RAG 기반 챗봇**
 - **기술 키워드**: `Python`,`FAISS`, `RAG`, `OpenAI API`
 - **상세 자료**: [📄 시스템 기획 및 아키텍처 바로가기 (PDF)](https://github.com/shshinbox/real-estate-agent/blob/main/%EB%B6%80%EB%8F%99%EC%82%B0%EC%B4%88%EB%B3%B4%EB%A5%BC_%EC%9C%84%ED%95%9C_%EB%B6%80%EB%8F%99%EC%82%B0_%EC%97%90%EC%9D%B4%EC%A0%84%ED%8A%B8_%EA%B5%AC%EC%B6%95_20251208_v1.0.pdf)
 
@@ -57,7 +57,7 @@
 
 ## ☕ Backend Engineering
 
-<details> 
+<details open> 
 <summary>
   <sub>(Distributed Concurrency Control)</sub>
 </summary>
@@ -73,14 +73,14 @@
 
 ## 🏗️ Data Engineering
 
-<details> 
+<details open> 
 <summary>
   <sub>(Concurrent Data Pipelines)</sub>
 </summary>
 
 ### 📄 [Python Data Pipeline: arXiv Text Extractor](https://github.com/shshinbox/arxiv-text-extractor2)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
-> **비동기 병렬 연산 데이터 수집 파이프라인**
+> **비동기 병렬 연산 arXiv 데이터 수집 파이프라인**
 - **기술 키워드**: `Python`, `AsyncIO`, `Multiprocessing`, `Aiohttp`, `PostgreSQL`, `MongoDB`, `SQLAlchemy`
 
 </details>
