@@ -51,7 +51,7 @@
 
 ## Data Engineering
 
-<details open> 
+<details> 
 <summary>
   <sub>(Concurrent Data Pipelines)</sub>
 </summary>
