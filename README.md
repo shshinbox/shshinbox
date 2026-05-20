@@ -1,10 +1,33 @@
 # Featured Projects
 
+
+## Backend Engineering
+
+<details open> 
+<summary>
+  <sub>(show/hide)</sub>
+</summary>
+
+### [Java Spring Backend: Ticketing System](https://github.com/shshinbox/concert-reservation-service)
+![Maintenance](https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+> **Kafka, Redis 활용 동시성 제어 및 대기열 관리 (24.11)**
+- **기술 키워드**: `Java`, `Spring Boot`, `JPA`, `Kafka`, `Redis`, `Security`, `MariaDB`
+
+
+### [Kotlin Spring Backend: Waiting Queue Service](https://github.com/shshinbox/waiting-queue-service)
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+> **Redis 활용 대기열 관리 (26.05)**
+- **기술 키워드**: `Kotlin`, `Spring Boot`, `reactive`, `Redis`, `jwt`
+
+</details>
+
+---
+
 ## AI Security
 
 <details open>
 <summary>
-  <sub>(Indirect Prompt Injection Detection)</sub>
+  <sub>(show/hide)</sub>
 </summary>
 
 ### [Analysis on the Robustness of Indirect Prompt Injection Detection in Quantized Large Language Models](https://github.com/shshinbox/master-research-ipi-pipeline)
@@ -21,44 +44,14 @@
 
 <details open> 
 <summary>
-  <sub>(Graph-based Agentic Workflow)</sub>
+  <sub>(show/hide)</sub>
 </summary>
   
 ### [RealtyAgent](https://github.com/shshinbox/RealtyAgent)
-![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus: Agentic Workflow](https://img.shields.io/badge/Focus-Agentic_Workflow-brightgreen?style=flat-square)
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus: Agentic Workflow](https://img.shields.io/badge/Focus-Agentic_Workflow-brightgreen?style=flat-square)
 > **부동산 상담 멀티 에이전트 (26.01 - 26.03)**
 - **기술 키워드**: `Python`, `LangGraph`, `FastAPI`, `Qdrant`, `Neo4j`, `Redis`
 
 </details>
 
----
-
-## Backend Engineering
-
-<details open> 
-<summary>
-  <sub>(Distributed Concurrency Control)</sub>
-</summary>
-
-### [Java Spring Backend: Ticketing System](https://github.com/shshinbox/concert-reservation-service)
-![Maintenance](https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
-> **Kafka, Redis 활용 동시성 제어 및 대기열 관리 (24.11)**
-- **기술 키워드**: `Java`, `Spring Boot`, `JPA`, `Kafka`, `Redis`, `Security`, `MariaDB`
-
-</details>
-
----
-
-## Data Engineering
-
-<details> 
-<summary>
-  <sub>(Concurrent Data Pipelines)</sub>
-</summary>
-
-### [Python Data Pipeline: arXiv Text Extractor](https://github.com/shshinbox/arxiv-text-extractor2)
-![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
-> **비동기 병렬 연산 arXiv 데이터 수집 파이프라인**
-- **기술 키워드**: `Python`, `AsyncIO`, `Multiprocessing`, `Aiohttp`, `PostgreSQL`, `MongoDB`, `SQLAlchemy`
-
-</details>
+<!-- ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) -->
