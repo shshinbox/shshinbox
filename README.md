@@ -15,7 +15,7 @@
 
 
 ### [Waiting Queue Service](https://github.com/shshinbox/waiting-queue-service)
-![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **Redis 기반 대기열 관리 (26.05)**
 - **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `JWT`
 
@@ -49,7 +49,7 @@
   
 ### [RealtyAgent](https://github.com/shshinbox/RealtyAgent)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus: Agentic Workflow](https://img.shields.io/badge/Focus-Agentic_Workflow-brightgreen?style=flat-square)
-> **LangGraph, FastAPI를 통한 상담 멀티 에이전트 워크플로우 (26.01 - 26.03)**
+> **LangGraph, FastAPI를 통한 부동산 상담 멀티 에이전트 워크플로우 (26.01 - 26.03)**
 - **기술 키워드**: `Python`, `LangChain/LangGraph`, `FastAPI`, `Qdrant`, `Neo4j`, `Redis`, `Multi-Agent Architecture`, `LLM Orchestration`
 
 </details>
@@ -80,10 +80,11 @@
 </summary>
 
 ### [arXiv Text Extractor](https://github.com/shshinbox/arxiv-text-extractor2)
-![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
-> **비동기 병렬 연산 arXiv 데이터 수집 파이프라인**
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus-Data_Engineering](https://img.shields.io/badge/Focus-Data_Engineering-brightgreen?style=flat-square)
+> **arXiv 데이터 수집 파이프라인 (25.12)**
 - **기술 키워드**: `Python`, `AsyncIO`, `Multiprocessing`, `Aiohttp`, `PostgreSQL`, `MongoDB`, `SQLAlchemy`
 
 </details>
 
 <!-- ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) -->
+<!-- ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) -->
