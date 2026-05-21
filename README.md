@@ -66,7 +66,7 @@
 ### [Inventory Service Deployment](https://github.com/shshinbox/inventory-rs-deploy)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Focus-DevOps](https://img.shields.io/badge/Focus-DevOps-blue?style=flat-square)
 > **Jenkins, Docker 기반 자동화 빌드 및 배포 파이프라인 (24.06)**
-- **기술 키워드**: `Jenkins`, `Docker`, `Docker Compose`, `CI/CD`
+- **기술 키워드**: `Jenkins`, `Docker`, `Docker Compose`, `CI/CD`, `Maven`, `NEXUS`, `Linux`
 
 </details>
 
