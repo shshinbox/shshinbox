@@ -27,7 +27,7 @@
 
 ---
 
-## AI Agent Engineering
+## AI Workflow Engineering
 
 <details open> 
 <summary>
@@ -75,7 +75,7 @@
 
 ---
 
-## AI Security
+## LLM Evaluation
 
 <details>
 <summary>
