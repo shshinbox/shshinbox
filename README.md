@@ -11,9 +11,9 @@
 ### [Waiting Queue Service](https://github.com/shshinbox/waiting-queue-service)
 ![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **Redis 기반 대기열 관리 (26.05)**
-- **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `JWT`
+- **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis ZSet`, `JWT`
 
-### [Waiting Queue Service](https://github.com/shshinbox/seat-holding-service)
+### [Seat Holding Service](https://github.com/shshinbox/seat-holding-service)
 ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **Redis 기반 동시성 제어와 Kafka 기반 예약 발급 분리 (26.05)**
 - **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `Redisson`, `Kafka`
