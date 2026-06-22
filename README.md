@@ -14,9 +14,9 @@
 - **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis ZSet`, `JWT`
 
 ### [Seat Holding Service](https://github.com/shshinbox/seat-holding-service)
-![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **Redis 기반 동시성 제어와 Kafka 기반 예약 발급 분리 (26.05)**
-- **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `Redisson`, `Kafka`
+- **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `Kafka`
 
 ### [Reservation Service](https://github.com/shshinbox/reservation-service)
 ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
@@ -34,7 +34,7 @@
 
 ## AI Workflow Engineering
 
-<details open> 
+<details> 
 <summary>
   <sub>(show/hide)</sub>
 </summary>
