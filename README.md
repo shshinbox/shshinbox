@@ -24,7 +24,7 @@
 - **기술 키워드**: `Java`, `Spring Boot`, `Spring MVC`, `Spring Data JPA`, `PostgreSQL`, `Redis`, `Kafka`
 
 ### [Ticketing System](https://github.com/shshinbox/concert-reservation-service)
-![Maintenance](https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **(Legacy) Kafka 기반 대기열 관리 및 Redis 동시성 제어 (24.11)**
 - **기술 키워드**: `Java`, `Spring Boot`, `Spring MVC`, `Spring Data JPA`, `MariaDB`, `Redis`, `Kafka`
 
@@ -95,6 +95,7 @@
 
 </details>
 
-
+<!-- ![Experience-Based](https://img.shields.io/badge/Project-Experience--Based-007396?style=flat-square) -->
+<!-- ![Maintenance](https://img.shields.io/badge/Status-Maintenance-blue?style=flat-square) -->
 <!-- ![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) -->
 <!-- ![Methodology](https://img.shields.io/badge/Methodology-Vibe--Coding-black?style=flat-square&logo=openai&logoColor=white) -->
