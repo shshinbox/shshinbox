@@ -19,7 +19,7 @@
 - **기술 키워드**: `Kotlin`, `Spring Boot`, `Spring WebFlux`, `Redis`, `Kafka`
 
 ### [Reservation Service](https://github.com/shshinbox/reservation-service)
-![Building](https://img.shields.io/badge/Status-Building-orange?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
+![Completed](https://img.shields.io/badge/Status-Completed-green?style=flat-square) ![Personal](https://img.shields.io/badge/Project-Personal-lightgrey?style=flat-square) ![Expertise-Backend-007396?style=flat-square](https://img.shields.io/badge/Expertise-Backend-007396?style=flat-square) 
 > **Kafka 기반 예약 생성 분리와 예약 상태 관리 (26.06)**
 - **기술 키워드**: `Java`, `Spring Boot`, `Spring MVC`, `Kafka`, `PostgreSQL`
 
